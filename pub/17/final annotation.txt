@@ -1,0 +1,401 @@
+A tour of hotels restaurants where Entourage filmed final season	entourage	prediction 1	correct
+Action on the set of Oz the Great and Powerful	oz	prediction 1	correct
+Actor who was Edward Quartermaine on General Hospital dies	general-hospital	prediction 1	correct
+anastyboykingbringsbackgameofthrones	gameofthrones	prediction 1	correct
+Another Pro Wrestler Found Dead Days Before Benoit MurderSuicide  Fox News	prowrestling	prediction 1	correct
+Apokolips now for Wonder Woman artist Cliff Chiang	dc	prediction 1	correct
+Arrested Development What the critics are saying	arresteddevelopment	prediction 1	correct
+Author of new James Bond novel chosen by estate  CBS News	jamesbond	prediction 1	correct
+Bert and Ernie Do Not Have Sexual Orientation Says Sesame Street	muppet	prediction 1	correct
+bigbangtheorystarjimparsonspennyslastnameis	bigbangtheory	prediction 1	correct
+Blake Lively answers Who is Gossip Girl	gossipgirl	prediction 1	correct
+Breaking Bad flashforward Everyones life  years from now	breakingbad	prediction 1	correct
+Breaking Bad goes out with a bang	breakingbad	prediction 1	correct
+Breaking Bad I Want Walter White to Survive the Finale	breakingbad	prediction 1	correct
+Breaking Bad Normalizes Meth Argues Prosecutor	breakingbad	prediction 1	correct
+Breaking Bad The end is bleak in Granite State	breakingbad	prediction 1	correct
+Breaking Bads Lydia Drinking camomile tea with milk is disgusting behaviour  Television amp radio  theguardiancom	breakingbad	prediction 1	correct
+Cote de Pablo leaving  NCIS  after  seasons  CBS News	ncis	prediction 1	correct
+Doc Baker on Little House dies at	littlehouse	prediction 1	correct
+Doctor Who director exposes William Hartnell as reluctant first Time Lord  Television amp radio  The Guardian	tardis	prediction 1	correct
+Doctor Who is now immortal reveals the BBC  Television amp radio  The Guardian	tardis	prediction 1	correct
+Doctor Who turns  and fans lives will never be the same	tardis	prediction 1	correct
+Dumped Wiggle Sam Moran led lonely life	wiggles	prediction 1	correct
+Family Guy kills off major character	familyguy	prediction 1	correct
+Fast and Furious actor Paul Walker dies in car crash  Fox News	fastandfurious	prediction 1	correct
+Fast and Furious star Paul Walker dies at	fastandfurious	prediction 1	correct
+First impressions Call of Duty Ghosts multiplayer	callofduty	prediction 1	correct
+foxpullsfamilyguyepisodereferringtodeathsatbostonmarathonnoplansto	familyguy	prediction 1	correct
+Frozen defrosts Kristen Bells Disney dreams	disney	prediction 1	correct
+Full House Cast All Grown Up	fullhouse	prediction 1	correct
+Game of Thrones  shocks with the Red Wedding  CBS News	gameofthrones	prediction 1	correct
+Game Of Thrones author George RR Martin talks season finale  Fox News	gameofthrones	prediction 1	correct
+Game of Thrones finale will be a tricky homecoming	gameofthrones	prediction 1	correct
+Game of Thrones has fans atwitter	gameofthrones	prediction 1	correct
+Game of Thrones The most uncomfortable moments	gameofthrones	prediction 1	correct
+Game of Thrones Watch So Close So Far	gameofthrones	prediction 1	correct
+Game of Thrones Watch Sons and Daughters	gameofthrones	prediction 1	correct
+Gears of War Judgment  review Moves the needle forward a notch  CBS News	gearsofwar	prediction 1	correct
+Glee star Cory Monteith found dead in hotel in Canada	glee	prediction 1	correct
+great Harry Potter filming locations	harrypotter	prediction 1	correct
+GTA Online Rockstar promises  ingame cash to each player  Technology  theguardiancom	gta	prediction 1	correct
+Harry Potters Butterbeer Recipe Uncovered  Fox News	harrypotter	prediction 1	correct
+Hobbit feet Frodos sword among Lord of the Rings auction items	lotr	prediction 1	correct
+How I Met Your Mother  gives glimpse of the  mother   CBS News	how-i-met-your-mother	prediction 1	correct
+How I Met Your Mother  recap The Mother speaks  CBS News	how-i-met-your-mother	prediction 1	correct
+How to Spot a Psychopath Look For Speech Patterns Scientists Say  Fox News	psychology	prediction 1	correct
+In BioShock Infinite the storys in control	bioshock	prediction 1	correct
+Is This the Man Behind the Muppet Shows Swedish Chef	muppet	prediction 1	correct
+Judi Dench talks  great surprise  in  Skyfall   CBS News	jamesbond	prediction 1	correct
+Lady Gaga holds Artpop court on Twitter chat	ladygaga	prediction 1	correct
+Lady Gagas latest frock has her airborne as ARTPOP launches	ladygaga	prediction 1	correct
+Little House on the Prairie	littlehouse	prediction 1	correct
+Lostwatch All of This Matters	lostpedia	prediction 1	correct
+Married With Children stars Where are they now  Fox News	marriedwithchildren	prediction 1	correct
+Meet the Minds Behind SpongeBob SquarePants	spongebob	prediction 1	correct
+Mentalist wraps its brain around Red John story	thementalist	prediction 1	correct
+Meow Hasbro unveils new token for Monopoly game  CBS News	monopoly	prediction 1	correct
+NCIS says farewell to Ziva	ncis	prediction 1	correct
+New Song of Ice and Fire publication date set	iceandfire	prediction 1	correct
+Not Back to the Future Day yet	backtothefuture	prediction 1	correct
+Peter Capaldi steps into the Tardis as the new Doctor	tardis	prediction 1	correct
+Power Rangers villains are still living large	powerrangers	prediction 1	correct
+Pro wrestling personality Paul Bearer has died  CBS News	prowrestling	prediction 1	correct
+Religion spies step forward in  Civilization V  update	civilization	prediction 1	correct
+Remains of Mafia captains identified	mafia	prediction 1	correct
+Review BioShock Infinite soars to greatness	bioshock	prediction 1	correct
+Review Call of Duty Ghosts hauntingly good	callofduty	prediction 1	correct
+Ron Perlman looks best behind a mask	hellboy	prediction 1	correct
+Sabans Power Rangers to Bring MEGA Excitement to San Diego ComicCon International	powerrangers	prediction 1	correct
+Sabres fire coach GM hire Ted Nolan Pat LaFontaine	icehockey	prediction 1	correct
+scottdisickmournslossofmother	keepingupwiththekardashians	prediction 1	correct
+Sex and death Cast talks new season of True Blood	trueblood	prediction 1	correct
+sheldonandamy	bigbangtheory	prediction 1	correct
+Some US Troops Choose Historic Tomahawk	military	prediction 1	correct
+St Francis of Assisi A great great figure in the church	religion	prediction 1	correct
+Star Wars film Return of the Jedi marks  years	starwars	prediction 1	correct
+Superior SpiderMan launches in  with darker hero	spiderman	prediction 1	correct
+Survivor Blood vs Water  Meet the castaways  CBS News	survivor	prediction 1	correct
+The Big Bang Theory  cast celebrates success at PaleyFest  CBS News	bigbangtheory	prediction 1	correct
+The Closer Baseball Begins Quality to Follow	baseball	prediction 1	correct
+The Hobbit Why Are There No Women in Tolkiens World	lotr	prediction 1	correct
+The Hunger Games Catching Fire Trailer See It Here	thehungergames	prediction 1	correct
+The Next Batman Is John Blake the New Bruce Wayne	batman	prediction 1	correct
+The real reason Mary Ingalls went blind	littlehouse	prediction 1	correct
+The Walking Dead Season  takes a boring turn with latest episode  Fox News	walkingdead	prediction 1	correct
+theories on how Breaking Bad will end	breakingbad	prediction 1	correct
+thethrowbacksheriffandytaylorsmanywomen	mayberry	prediction 1	correct
+Tickle Me Elmo	muppet	prediction 1	correct
+Token change for Monopoly to replace an iconic piece	monopoly	prediction 1	correct
+twoandhalfmenbossesashtonkutchervagueaboutreturningnextseason	twohalfmen	prediction 1	correct
+US Army Unveils Revolutionary XM Rifle in Afghanistan  Fox News	military	prediction 1	correct
+Volkswagen weighs making new SUV at Tennessee plant	automobile	prediction 1	correct
+Walking Dead returns a step away from danger	walkingdead	prediction 1	correct
+What youll see on the new Walking Dead	walkingdead	prediction 1	correct
+Whatever the ending Breaking Bad will be on high	breakingbad	prediction 1	correct
+Will There Be an Iron Man  We Ask Marvel Studios CoPresident	ironman	prediction 1	correct
+Super Mario Cookie Monster Elmo accused of aggressive behavior in Times Square  Fox News	muppet	prediction 1	correct
+A Lead on the Ark of the Covenant	religion	prediction 1	correct
+Angry Birds Star Wars II Rovio flings a new sequel	starwars	prediction 1	Interesting
+Big Bang Theory  actress Mayim Bialik husband divorcing	bigbangtheory	prediction 1	correctish
+Big Bang Theory actress Mayim Bialik a reallife scientist	bigbangtheory	prediction 1	correctish
+Broadways Lion King Star Dies of Cancer	lionking	prediction 1	correctish
+Call of Duty Ghosts review  a rightwing spectacular  Fox News	callofduty	prediction 1	correctish
+callofdutyghosts	gaming	prediction 1	Interesting
+Can a cold green supersonic spray save the Black Hawk  Fox News	military	prediction 1	correctish
+Did Saturday Night Live expose Ashlee Simpsons extra help	snl	prediction 1	correctish
+Disney XD debuts Avengers Hulk series this summer	disney	prediction 1	Interesting
+Doctor Who app turns your camera into a Dalek	tardis	prediction 1	Interesting
+Expendables  filming begins in Bulgaria without Willis	expendables	prediction 1	correctish
+Fast Facts Ten Commandments  Fox News	religion	prediction 1	correct
+GM unloads Hummer to Chinese buyer	tractors	prediction 1	correctish
+Hagel and Panetta dish about Pentagon	military	prediction 1	correctish
+Hands off  Game of Thrones  says US ambassador to Australians	gameofthrones	prediction 1	correctish
+Hero or villain Cyclops is center of Uncanny XMen	marvel	prediction 1	correctish
+Hit game Minecraft to stay private	gaming	prediction 1	Interesting
+How Will Finn Die on Glee	glee	prediction 1	correctish
+Limerence makes the heart grow far too fonder	psychology	prediction 1	Interesting
+On LeftHandedness Its Causes and Costs	psychology	prediction 1	Interesting
+professionalwrestlerjohncenaisnotafanofrayjsihititfirst	keepingupwiththekardashians	prediction 1	correctish
+The Third Surge	military	prediction 1	correct
+Tony Lip who played Sopranos mob boss dies	sopranos	prediction 1	correctish
+Will it be Superman vs Batman vs Wonder Woman in Man of Steel   Film  The Guardian	batman	prediction 1	Interesting
+Dancing With the Stars New Season  Cast Revealed	muppet	prediction 1	wrong
+Jack the Ripper Case  years later murders of London prostitutes by notorious serial killer remain unsolved  CBS News	tardis	prediction 1	wrong
+Astronomers spot  diamond planet	stargate	prediction 1	wrong
+Chuck E Cheese Where Family Feuds at Birthday Parties Turn into Violent Brawls	24	prediction 1	wrong
+Facebook Inc	itlaw	prediction 1	wrong
+Libya Civil War Fast Facts	tardis	prediction 1	wrong
+Michelle Duggar Has Premature Girl in Emergency C Section	lostpedia	prediction 1	wrong
+Nelson Mandela Inspires a Nation as th Birthday Nears	memory-beta	prediction 1	wrong
+Official says Nelson Mandela on life support Zuma cancels trip	memory-beta	prediction 1	wrong
+Stephen Hawking There is no heaven its a fairy story  Science  The Guardian	memory-beta	prediction 1	wrong
+Agent Coulsons secret is out	marvel-movies	prediction 2	correct
+Amazing Race is not family friendly	amazingrace	prediction 2	correct
+Angry Birds Star Wars II Rovio flings a new sequel	angrybirds	prediction 2	correct
+Avengers James Spader to play Ultron	marvel-movies	prediction 2	correct
+Cary Elwes writing memoir about Princess Bride	disney	prediction 2	correct
+CIA used mobsters in plot to kill Castro report says	military	prediction 2	correct
+Disney XD debuts Avengers Hulk series this summer	hulk	prediction 2	correct
+Diwali One festival many customs	india	prediction 2	correct
+From Meth Addict to Mom Jodie Sweetins Comeback	fullhouse	prediction 2	correct
+Jurassic World a prehistoric franchise brought back from the dead  Michael Moran  Comment is free  theguardiancom	jurassicpark	prediction 2	correct
+Marvels newest superhero is a MuslimAmerican teen	dc	prediction 2	correct
+Monsters Inc yields dividends	disney	prediction 2	correct
+Sam Witwer brings madness to Darth Maul in Clone Wars	clonewars	prediction 2	correct
+Soap actress Shell Kepler dies at	general-hospital	prediction 2	correct
+Vatican Opens Archives for Unprecedented Exhibit  Fox News	religion	prediction 2	correct
+Whats the  Million Dollar Man worth today  Fox News	bionic	prediction 2	correct
+Why Are Computer Voices Female Ask Siri	apple	prediction 2	correct
+whyharrisonfordjoinedexpendables	expendables	prediction 2	correct
+Virginia Johnson obituary  Life and style  theguardiancom	psychology	prediction 2	Interesting
+Are zebrafish the key to finding the cure for autism  Fox News	psychology	prediction 2	Interesting
+Bad Piggies get a shot at greatness  Fox News	angrybirds	prediction 2	Interesting
+Bangladesh electronics giant Walton enters GCC market	travel	prediction 2	Interesting
+Captain America Actor Anthony Mackie Arrested for Alleged DWI	marvel-movies	prediction 2	Interesting
+Carrie reborn for a new generation	movies	prediction 2	Interesting
+Families Colleagues Honor Fallen Special Ops Soldiers in RainSoaked Memorial	military	prediction 2	Interesting
+Fidel Castro Fast Facts	military	prediction 2	Interesting
+Frequent texters tend to be shallow research suggests	psychology	prediction 2	Interesting
+Hitler was homosexual new book says	military	prediction 2	Interesting
+Jacqueline Kennedy Reveals That JFK Feared an LBJ Presidency	military	prediction 2	Interesting
+Marines Dead Including Suspect at Quantico Marine Base Shooting	military	prediction 2	Interesting
+Meet the new XMen All women	marvel	prediction 2	Interesting
+Natalie Portman Sciences unlikely heroine	disney	prediction 2	Interesting
+Roseanne stars  years later Where are they now  Fox News	bigbangtheory	prediction 2	Interesting
+Star Wars Rebels animated series set for fall	headhuntersholosuite	prediction 2	Interesting
+Suicide is painless for new Squad series writer	dc	prediction 2	Interesting
+Superfood Eat Your Lentils  Fox News	psychology	prediction 2	Interesting
+The cult of Loki everyones favorite trickster god	marvel-movies	prediction 2	Interesting
+Tony Lip who played Sopranos mob boss dies	mafia	prediction 2	interesting
+Will There Be an Iron Man  We Ask Marvel Studios CoPresident	marvel	prediction 2	interesting
+Stephen King  Under the Dome  will be  riveting TV   CBS News	headhuntershorrorhouse	prediction 2	wrong
+Theres something potentially dangerous about molly	psychology	prediction 2	wrong
+Amid Specters presidential ambitions Ruby Ridge  possible FBI coverup became a Kagan focus  Fox News	military	prediction 2	wrong
+Angel of Death Killer nurse stopped but not soon enough	harrypotter	prediction 2	wrong
+Big Brother housemates already suspect Drew and Jade arent newlyweds	headhuntersholosuite	prediction 2	wrong
+Biker slain at Hells Angels funeral for leader	24	prediction 2	wrong
+Burt Reynolds On His Money Woes	muppet	prediction 2	wrong
+Californias antispam law faces hurdles	stargate	prediction 2	wrong
+Common Food in North Korea	24	prediction 2	wrong
+Cover reveal Octavia Spencers first book Randi Rhodes Ninja Detective	disney	prediction 2	wrong
+Dancing with the Stars recap Maks is back for the semifinals and someone is sent packing  Fox News	lostpedia	prediction 2	wrong
+Death penalty overturned for Arizona man who killed   Fox News	headhuntershorrorhouse	prediction 2	wrong
+Dolphins OL Richie Incognitos racial slur indefensible	headhuntersholosuite	prediction 2	wrong
+Elton the Gay Dog Spared the Gas Chamber	tardis	prediction 2	wrong
+Experts call for end of flushing toilets on World Toilet Day	icehockey	prediction 2	wrong
+Fabulous Dead People   Pauline Trigre	disney	prediction 2	wrong
+Fast  Furious star Paul Walker killed in car crash	24	prediction 2	wrong
+Frank Calabrese notorious Chicago mob hit man dies in prison authorities say  CBS News	memory-beta	prediction 2	wrong
+Gene map proves platypus is part bird mammal and reptile	psychology	prediction 2	wrong
+Gridlock in Congress Blame the GOP	whitewolf	prediction 2	wrong
+Inside Iran The Joker Strikes Again	dc	prediction 2	wrong
+Jane Fonda tells veterans boycotting her movie The Butler to get a life  Fox News	headhuntershorrohouse	prediction 2	wrong
+Jane Kean Trixie on The Honeymooners revival dies at age	familyguy	prediction 2	wrong
+Jessica Duchens top  literary Gypsies  Books  theguardiancom	tardis	prediction 2	wrong
+JFK Anniversary Recalls the Age of Americas Camelot	tardis	prediction 2	wrong
+Kimberly Guilfoyle   Biography  Fox News	muppet	prediction 2	wrong
+Little Nicky Scarfos Son Busted In Jersey	prowrestling	prediction 2	wrong
+Man charged in Kid Rock breakin enters no contest plea	disney	prediction 2	wrong
+Manti Teo Denies Faking It in Girlfriend Hoax Admits He Tailored Story	icehockey	prediction 2	wrong
+Melissa Gilbert Files for Divorce from Bruce Boxleitner	familyguy	prediction 2	wrong
+Mindy McCready dead at  just weeks after boyfriend David Wilsons death  Fox News	icehockey	prediction 2	wrong
+Mysterious yearold ruins found in Syrian desert  Fox News	memory-beta	prediction 2	wrong
+Nielsens Waverly Place shows it can win	muppet	prediction 2	wrong
+Opinion A white South Africans memories of Mandela	memory-beta	prediction 2	wrong
+Our Surgeon General needs to slap a warning label on Facebook  Fox News	psychology	prediction 2	wrong
+Photographer as Witness A Portrait of Domestic Violence	walkingdead	prediction 2	wrong
+Psychic Who Said Amanda Berry Was Dead Silent After Berry Is Found Alive	icehockey	prediction 2	wrong
+Race Win Amazing For Flo And Zach	muppet	prediction 2	wrong
+Reichen And Chip Race Winners	muppet	prediction 2	wrong
+Robert F Kennedys assassin moves to new prison	military	prediction 2	wrong
+Save the Ferret Wildlife Experts ReTrain Endangered BlackFooted Ferrets to Survive in the Wild	stargate	prediction 2	wrong
+Seeking M Powerball jackpot people pick up lastminute tickets most number combos bought  Fox News	prowrestling	prediction 2	wrong
+Serial killer Richard Ramirez known as Night Stalker dead at	icehockey	prediction 2	wrong
+Speak Up the Internet Cant Hear You	itlaw	prediction 2	wrong
+Star Wars Episode VII to limit cheap CGI tricks and keep it real  Film  theguardian	familyguy	prediction 2	wrong
+Taco Bell Icelandic pies drawn into horse meat scandal	itlaw	prediction 2	wrong
+TellAll Book Shows Softer Side of Former Mob Boss Vinny Gorgeous  Fox News	memory-beta	prediction 2	wrong
+The doctor is in Doc McStuffins reveals changing face of medicine	memory-beta	prediction 2	wrong
+The larder comes back in from the cold  Life and style  theguardiancom	recipes	prediction 2	wrong
+The Last Runaway	military	prediction 2	wrong
+Theres no mystery to Poes allure	tardis	prediction 2	wrong
+UK Court Hears Horrific Details of Boys Witchcraft Murder  Fox News	tardis	prediction 2	wrong
+Undercover Look Inside The Russian Mob	icehockey	prediction 2	wrong
+Vacation RoboPost The Worst TV of	muppet	prediction 2	wrong
+What is turning so many young men into internet trolls  Media  The Observer	tardis	prediction 2	wrong
+Woman who played Miss Cleo speaks out	itlaw	prediction 2	wrong
+Alleged Colombian cartel leader caught in Venezuela  Fox News	recipes	prediction 2	wrong
+Billy Grahams final sermon Ive wept for America	memory-beta	prediction 2	wrong
+Did he bang it Nikita Khrushchev and the shoe	metalgear	prediction 2	wrong
+Drone is Obamas weapon of choice	24	prediction 2	wrong
+Facts on Armenia	24	prediction 2	wrong
+Fast Facts Ten Commandments  Fox News	military	prediction 2	wrong
+Libya Civil War Fast Facts	religion	prediction 2	wrong
+A Lead on the Ark of the Covenant	indianajones	prediction 3	correct
+anastyboykingbringsbackgameofthrones	iceandfire	prediction 3	correct
+Avengers James Spader to play Ultron	marvel	prediction 3	correct
+Can A Video Game Lead To Murder	gta	prediction 3	correct
+CIA used mobsters in plot to kill Castro report says	mafia	prediction 3	correct
+Iron ManLike Body Armor For Soldiers in the Works	military	prediction 3	correct
+Lostwatch All of This Matters	lost	prediction 3	correct
+Marvels newest superhero is a MuslimAmerican teen	marvel	prediction 3	correct
+Melissa Gilbert Files for Divorce from Bruce Boxleitner	littlehouse	prediction 3	correct
+Sam Witwer brings madness to Darth Maul in Clone Wars	starwars	prediction 3	correct
+Star Wars Episode VII to limit cheap CGI tricks and keep it real  Film  theguardian	starwars	prediction 3	correct
+Superior SpiderMan launches in  with darker hero	marvel	prediction 3	correct
+The Next Batman Is John Blake the New Bruce Wayne	dcmovies	prediction 3	correct
+Whats the difference between MI and MI What happened to MI  MI and are there agencies with higher numbers MI MI etc  Notes and Queries  guardiancouk	military	prediction 3	correct
+Will it be Superman vs Batman vs Wonder Woman in Man of Steel   Film  The Guardian	dcmovies	prediction 3	correct
+Billy Grahams final sermon Ive wept for America	religion	prediction 3	correct
+Action on the set of Oz the Great and Powerful	disney	prediction 3	interesting
+Agent Coulsons secret is out	ironman	prediction 3	interesting
+Apokolips now for Wonder Woman artist Cliff Chiang	superfriends	prediction 3	interesting
+callofdutyghosts	callofduty	prediction 3	interesting
+Dancing With the Stars New Season  Cast Revealed	littlehouse	prediction 3	interesting
+Dancing with the Stars recap Maks is back for the semifinals and someone is sent packing  Fox News	ladygaga	prediction 3	interesting
+Doctor Who director exposes William Hartnell as reluctant first Time Lord  Television amp radio  The Guardian	ultimatepopculture	prediction 3	interesting
+Game of Thrones  shocks with the Red Wedding  CBS News	iceandfire	prediction 3	interesting
+Game Of Thrones author George RR Martin talks season finale  Fox News	iceandfire	prediction 3	interesting
+Game of Thrones finale will be a tricky homecoming	iceandfire	prediction 3	interesting
+Game of Thrones has fans atwitter	iceandfire	prediction 3	interesting
+Game of Thrones The most uncomfortable moments	iceandfire	prediction 3	interesting
+Game of Thrones Watch So Close So Far	iceandfire	prediction 3	interesting
+Game of Thrones Watch Sons and Daughters	iceandfire	prediction 3	interesting
+great Harry Potter filming locations	pottermore	prediction 3	interesting
+Harry Potters Butterbeer Recipe Uncovered  Fox News	pottermore	prediction 3	interesting
+Hero or villain Cyclops is center of Uncanny XMen	marvelanimated	prediction 3	interesting
+Hit game Minecraft to stay private	minecraft	prediction 3	interesting
+In BioShock Infinite the storys in control	gaming	prediction 3	interesting
+Is This the Man Behind the Muppet Shows Swedish Chef	disney	prediction 3	interesting
+Meet the Minds Behind SpongeBob SquarePants	nickelodeon	prediction 3	interesting
+Power Rangers villains are still living large	villains	prediction 3	Interesting
+Ron Perlman looks best behind a mask	movies	prediction 3	Interesting
+Star Wars film Return of the Jedi marks  years	headhuntersholosuite	prediction 3	Interesting
+Star Wars Rebels animated series set for fall	swfanon	prediction 3	Interesting
+Superfood Eat Your Lentils  Fox News	recipes	prediction 3	Interesting
+TellAll Book Shows Softer Side of Former Mob Boss Vinny Gorgeous  Fox News	mafia	prediction 3	Interesting
+The Hobbit Why Are There No Women in Tolkiens World	ppc	prediction 3	Interesting
+Volkswagen weighs making new SUV at Tennessee plant	tractors	prediction 3	Interesting
+Walking Dead returns a step away from danger	headhuntershorrorhouse	prediction 3	Interesting
+Facts on Armenia	travel	prediction 3	Interesting
+Pro wrestling personality Paul Bearer has died  CBS News	smackdown	prediction 3	wrong
+Suicide is painless for new Squad series writer	batman	prediction 3	wrong
+Photographer as Witness A Portrait of Domestic Violence	psychology	prediction 3	wrong
+A tour of hotels restaurants where Entourage filmed final season	familyguy	prediction 3	wrong
+Actor who was Edward Quartermaine on General Hospital dies	muppet	prediction 3	wrong
+Amazing Race is not family friendly	memory-beta	prediction 3	wrong
+Angel of Death Killer nurse stopped but not soon enough	icehockey	prediction 3	wrong
+Another Pro Wrestler Found Dead Days Before Benoit MurderSuicide  Fox News	muppet	prediction 3	wrong
+Astronomers spot  diamond planet	memory-beta	prediction 3	wrong
+Author of new James Bond novel chosen by estate  CBS News	icehockey	prediction 3	wrong
+Bad Piggies get a shot at greatness  Fox News	apple	prediction 3	wrong
+Bangladesh electronics giant Walton enters GCC market	icehockey	prediction 3	wrong
+Bert and Ernie Do Not Have Sexual Orientation Says Sesame Street	familyguy	prediction 3	wrong
+Big Bang Theory  actress Mayim Bialik husband divorcing	tardis	prediction 3	wrong
+Big Bang Theory actress Mayim Bialik a reallife scientist	psychology	prediction 3	wrong
+Big Brother housemates already suspect Drew and Jade arent newlyweds	headhuntershorrorhouse	prediction 3	wrong
+bigbangtheorystarjimparsonspennyslastnameis	familyguy	prediction 3	wrong
+Breaking Bad flashforward Everyones life  years from now	eve	prediction 3	wrong
+Breaking Bad goes out with a bang	lostpedia	prediction 3	wrong
+Breaking Bad The end is bleak in Granite State	lostpedia	prediction 3	wrong
+Breaking Bads Lydia Drinking camomile tea with milk is disgusting behaviour  Television amp radio  theguardiancom	24	prediction 3	wrong
+Broadways Lion King Star Dies of Cancer	muppet	prediction 3	wrong
+Burt Reynolds On His Money Woes	memory-beta	prediction 3	wrong
+Californias antispam law faces hurdles	24	prediction 3	wrong
+Carrie reborn for a new generation	disney	prediction 3	wrong
+Common Food in North Korea	icehockey	prediction 3	wrong
+Cote de Pablo leaving  NCIS  after  seasons  CBS News	familyguy	prediction 3	wrong
+Cover reveal Octavia Spencers first book Randi Rhodes Ninja Detective	headhuntershorrorhouse	prediction 3	wrong
+Death penalty overturned for Arizona man who killed   Fox News	lostpedia	prediction 3	wrong
+Did Saturday Night Live expose Ashlee Simpsons extra help	simpsons	prediction 3	wrong
+Doc Baker on Little House dies at	memory-beta	prediction 3	wrong
+Doctor Who app turns your camera into a Dalek	itlaw	prediction 3	wrong
+Dr Drew No more  Celebrity Rehab  after cast member deaths  CBS News	pokemon	prediction 3	wrong
+Expendables  filming begins in Bulgaria without Willis	mixedmartialarts	prediction 3	wrong
+Fabulous Dead People   Pauline Trigre	muppet	prediction 3	wrong
+Family Guy kills off major character	tropes	prediction 3	wrong
+Fast  Furious star Paul Walker killed in car crash	fastandfurious	prediction 3	wrong
+Fast and Furious star Paul Walker dies at	automobile	prediction 3	wrong
+foxpullsfamilyguyepisodereferringtodeathsatbostonmarathonnoplansto	simpsons	prediction 3	wrong
+Frank Calabrese notorious Chicago mob hit man dies in prison authorities say  CBS News	prowrestling	prediction 3	wrong
+Full House Cast All Grown Up	muppet	prediction 3	wrong
+Gene map proves platypus is part bird mammal and reptile	stexpanded	prediction 3	wrong
+Godzilla of sinkholes  Signs and tests to reduce risk  CBS News	military	prediction 3	wrong
+Hagel and Panetta dish about Pentagon	fallout	prediction 3	wrong
+Hands off  Game of Thrones  says US ambassador to Australians	iceandfire	prediction 3	wrong
+Hitler was homosexual new book says	inglouriousbasterds	prediction 3	wrong
+How I Met Your Mother  gives glimpse of the  mother   CBS News	movies	prediction 3	wrong
+Jack the Ripper Case  years later murders of London prostitutes by notorious serial killer remain unsolved  CBS News	dc	prediction 3	wrong
+Jacqueline Kennedy Reveals That JFK Feared an LBJ Presidency	metalgear	prediction 3	wrong
+Jane Kean Trixie on The Honeymooners revival dies at age	muppet	prediction 3	wrong
+JC Penney ad apologizes to customers	prowrestling	prediction 3	wrong
+Jessica Duchens top  literary Gypsies  Books  theguardiancom	literature	prediction 3	wrong
+JFK Anniversary Recalls the Age of Americas Camelot	24	prediction 3	wrong
+Jurassic World a prehistoric franchise brought back from the dead  Michael Moran  Comment is free  theguardiancom	gaming	prediction 3	wrong
+Kimberly Guilfoyle   Biography  Fox News	24	prediction 3	wrong
+Lady Gagas latest frock has her airborne as ARTPOP launches	tardis	prediction 3	wrong
+Little Nicky Scarfos Son Busted In Jersey	headhuntershorrorhouse	prediction 3	wrong
+Marines Dead Including Suspect at Quantico Marine Base Shooting	24	prediction 3	wrong
+Meow Hasbro unveils new token for Monopoly game  CBS News	starwars	prediction 3	wrong
+Michelle Duggar Has Premature Girl in Emergency C Section	military	prediction 3	wrong
+Mindy McCready dead at  just weeks after boyfriend David Wilsons death  Fox News	lostpedia	prediction 3	wrong
+Monsters Inc yields dividends	finalfantasy	prediction 3	wrong
+Mysterious yearold ruins found in Syrian desert  Fox News	indianajones	prediction 3	wrong
+Natalie Portman Sciences unlikely heroine	memory-beta	prediction 3	wrong
+Not Back to the Future Day yet	tardis	prediction 3	wrong
+On LeftHandedness Its Causes and Costs	memory-beta	prediction 3	wrong
+Peter Capaldi steps into the Tardis as the new Doctor	memory-beta	prediction 3	wrong
+Psychic Who Said Amanda Berry Was Dead Silent After Berry Is Found Alive	tardis	prediction 3	wrong
+Rare white buffalo sacred to some in Native American community killed and skinned  Fox News	conworld	prediction 3	wrong
+Reichen And Chip Race Winners	lostpedia	prediction 3	wrong
+returning to Fox for  episodes network announces  Fox News	headhuntershorrorhouse	prediction 3	wrong
+Review Call of Duty Ghosts hauntingly good	memory-beta	prediction 3	wrong
+Robert F Kennedys assassin moves to new prison	althistory	prediction 3	wrong
+Roseanne stars  years later Where are they now  Fox News	familyguy	prediction 3	wrong
+Seeking M Powerball jackpot people pick up lastminute tickets most number combos bought  Fox News	travel	prediction 3	wrong
+Serial killer Richard Ramirez known as Night Stalker dead at	prowrestling	prediction 3	wrong
+sheldonandamy	military	prediction 3	wrong
+Shrine to Drug Saint Jesus Malverde Erected in Mexico City  Fox News	headhuntershorrorhouse	prediction 3	wrong
+Singer alleges Glee ripped off his cover song	music	prediction 3	wrong
+Some US Troops Choose Historic Tomahawk	memory-beta	prediction 3	wrong
+Speak Up the Internet Cant Hear You	psychology	prediction 3	wrong
+St Francis of Assisi A great great figure in the church	military	prediction 3	wrong
+Stephen Hawking There is no heaven its a fairy story  Science  The Guardian	tropes	prediction 3	wrong
+Survivor Blood vs Water  Meet the castaways  CBS News	bigbrother	prediction 3	wrong
+The Big Bang Theory  cast celebrates success at PaleyFest  CBS News	familyguy	prediction 3	wrong
+The Hunger Games Catching Fire Trailer See It Here	movies	prediction 3	wrong
+The larder comes back in from the cold  Life and style  theguardiancom	memory-beta	prediction 3	wrong
+The Last Runaway	music	prediction 3	wrong
+The real reason Mary Ingalls went blind	icehockey	prediction 3	wrong
+The Third Surge	24	prediction 3	wrong
+The Worst TV Shows Ever	familyguy	prediction 3	wrong
+theories on how Breaking Bad will end	headhuntersholosuite	prediction 3	wrong
+Time to protect America from zombies	tardis	prediction 3	wrong
+twoandhalfmenbossesashtonkutchervagueaboutreturningnextseason	familyguy	prediction 3	wrong
+UK Court Hears Horrific Details of Boys Witchcraft Murder  Fox News	stargate	prediction 3	wrong
+Undercover Look Inside The Russian Mob	memory-beta	prediction 3	wrong
+US Army Unveils Revolutionary XM Rifle in Afghanistan  Fox News	stargate	prediction 3	wrong
+Virginia Johnson obituary  Life and style  theguardiancom	simpsons	prediction 3	wrong
+Were now one step closer to Americas coming civil war  Fox News	psychology	prediction 3	wrong
+Whats the  Million Dollar Man worth today  Fox News	psychology	prediction 3	wrong
+Why Are Computer Voices Female Ask Siri	psychology	prediction 3	wrong
+whyharrisonfordjoinedexpendables	muppet	prediction 3	wrong
+Alleged Colombian cartel leader caught in Venezuela  Fox News	psychology	prediction 3	wrong
+Amid Specters presidential ambitions Ruby Ridge  possible FBI coverup became a Kagan focus  Fox News	stargatte	prediction 3	wrong
+Calls for Sawyer to Resign After Teen Beating Report  Fox News	memory-beta	prediction 3	wrong
+Did he bang it Nikita Khrushchev and the shoe	psychology	prediction 3	wrong
+Dolphins OL Richie Incognitos racial slur indefensible	psychology	prediction 3	wrong
+Drone is Obamas weapon of choice	religion	prediction 3	wrong
+Elton the Gay Dog Spared the Gas Chamber	stargate	prediction 3	wrong
+Fast Facts Ten Commandments  Fox News	memory-beta	prediction 3	wrong
+Fidel Castro Fast Facts	memory-beta	prediction 3	wrong
+JFK and yearold White House intern Mimi Alford  a truly shameful revelation  Fox News	memory-beta	prediction 3	wrong
+Manti Teo Denies Faking It in Girlfriend Hoax Admits He Tailored Story	wackishlyawesomerandomness	prediction 3	wrong
+Meet the new XMen All women	animebaths	prediction 3	wrong
+Opinion A white South Africans memories of Mandela	psychology	prediction 3	wrong
+Survivorman wants out alive from TV series	wackypedia	prediction 3	wrong
+Taco Bell Icelandic pies drawn into horse meat scandal	recipes	prediction 3	wrong
+Token change for Monopoly to replace an iconic piece	wackypedia	prediction 3	wrong
+Vacation RoboPost The Worst TV of	southpark	prediction 3	wrong
+Wooly mammoth blood recovered from frozen carcass Russian scientists say  Fox News	fossil	prediction 3	wrong

@@ -1,0 +1,120 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Ning Gao</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href="style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="js/cufon-yui.js"></script>
+<script type="text/javascript" src="js/arial.js"></script>
+<script type="text/javascript" src="js/cuf_run.js"></script>
+</head>
+<body>
+<div class="main">
+  <div class="header">
+    <div class="header_resize">
+      <div class="logo">
+        <h1><a href="index.html">Ning Gao <small>Draco Dormiens Nunquam Titillandes    </small></a></h1>
+      </div>
+      <div class="menu_nav">
+        <ul>
+          <li><a href="index.html">Home</a></li>
+		  <li ><a href="researchexperience">Research Experience</a></li>
+          <li class="activate"><a href="publications">Publications</a></li>
+          <li><a href="honors">Honors</a></li>
+          <li><a href="resume of Ning Gao.pdf">CV</a></li>
+         
+        </ul>
+      </div>
+      <div class="clr"></div>
+    </div>
+  </div>
+  
+  
+  <div class="content">
+    <div class="content_resize">
+    <div class="fbg">
+    <div class="fbg_resize">
+    <h2 align="center"><span><b>Papers</b></span></h2>
+
+<ul>
+
+<li>Tim Finin, Dawn Lawrie, Paul McNamee, James Mayfield, Douglas Oard, Nanyun Peng, <b>Ning Gao</b>, Yiu-Chang Lin, Josh MacLin and Tim Dowd. "HLTCOE Participation in TAC KBK 2015: Cold Start and TEDL". Proceedings of the Text Analysis Conference (TAC 2015), 14 pages. <a href="pub/15/tac2015.pdf">[PDF]</a></li>
+ <br />
+<br />
+
+<li><b>Ning Gao</b>, Douglas W. Oard. "A Head-Weighted Gap-Sensitive Correlation Coefficient". Proceedings of the 38th international ACM SIGIR conference on Research & development in information
+retrieval (SIGIR 2015): pp. 799-802. <a href="pub/15/sigir2015.pdf">[PDF]</a></li>
+<b><font color="red">(SIGIR Travel Grant)</font></b>
+ <br />
+<br />
+
+<li><b>Ning Gao</b>, Douglas W. Oard, Mark Dredze (2014). "A Test Collection for Email Entity Linking". NIPS Workshop on Automated Knowledge Base Construction (AKBC 2014), 5 pages. <a href="pub/14/testcollection.pdf">[PDF]</a>
+<br /> Associated Material:  <a href="pub/14/qrels">Test Collection</a></li>
+<br />
+
+<li><b>Ning Gao</b>, William Webber, Douglas W. Oard (2014). "Reducing Reliance on Relevance Judgments for System Comparison by Using Expectation-Maximization". 
+Proc. the 36th European Conference on Information Retrieval (ECIR 2014): pp. 1-12. <a href="pub/14/ecir-11.pdf">[PDF]</a>
+<br />Associated Material: Convergence Proof <a href="pub/14/ConvergenceProof.ECIR2014" >[PDF]</a></li>
+<b><font color="red">(Jacob K. Goldhaber Travel Grant)</font></b>
+<br /><b><font color="red">(International Conference Student Support Award)</font></b>
+<br />
+<br />
+
+<li> <b>Ning Gao</b>, ZhiHong Deng, and ShengLong Lv. "XDist: an effective XML keyword search system with re-ranking model based on keyword distribution." Science China Information Sciences 57.5 (2014): 1-17. <a href="pub/14/XDist.pdf">[PDF]</a></li><br />
+
+
+<li>Zhi-Hong Deng, Yong-Qing Xiang, <b>Ning Gao</b> (2013): "LAF: a new XML encoding and indexing
+strategy for keyword-based XML search". Concurrency and Computation: Practice and
+Experience 25(11): pp. 1604-1621. <a href="pub/13/LAF.pdf">[PDF]</a> </li><br />
+
+
+<li>Hang Yu, Zhi-Hong Deng, <b>Ning Gao</b> (2012): "Efficient top-k algorithm for eXtensible Markup
+Language keyword search". IET Software 6(4): pp. 342-349. <a href="pub/12/topk.pdf">[PDF]</a> </li><br />
+
+<li><b>Ning Gao</b>, Zhi-Hong Deng, Jia-Jian Jiang, Hang Yu (2012): "MAXLCA: A New Query Semantic
+Model for XML Keyword Search". J. Web Eng. 11(2): pp. 131-145. <a href="pub/12/maxlca.pdf">[PDF]</a></li><br />
+
+<li>Jia-Jian Jiang, Zhi-Hong Deng, <b>Ning Gao</b>, Sheng-Long Lv (2012):  "Guess what i want: inferring the semantics of keyword queries using evidence theory". In Web Technologies and Applications, pp. 388-398. <a href="pub/12/guess.pdf">[PDF]</a> </li><br />
+
+
+<li>Zhi-Hong Deng, <b>Ning Gao</b>, Xiaoran Xu: "Mop: An Efficient Algorithm for Mining
+Frequent Pattern with Subtree Traversing". Fundam. Inform. 111(4): 373-390 (2011).</li><br />
+
+<li>Nicholas J. Belkin, Charles L. A. Clarke, <b>Ning Gao</b>, Jaap Kamps, Jussi Karlgren: Report
+on the SIGIR workshop on "entertain me": supporting complex search tasks. SIGIR
+Forum 45(2): 51-59 (2011). <a href="pub/11/entertainme.pdf">[PDF]</a></li><br />
+
+<li>Sheng-Long Lv, Zhi-Hong Deng, Hang Yu, <b>Ning Gao</b>, Jia-Jian Jiang: "Fully Utilize
+Feedbacks: Language Model Based Relevance Feedback in Information Retrieval". In ADMA 2011: pp. 395-405. <a href="pub/11/fully.pdf">[PDF]</a></li><br />
+
+
+<li><b>Ning Gao</b>, Zhi-Hong Deng, Hang Yu, Jia-Jian Jiang: "ListOPT: Learning to Optimize for
+XML Ranking". In PAKDD 2011: pp. 482-492. <a href="pub/11/listopt.pdf">[PDF]</a></li><br />
+
+
+<li><b>Ning Gao</b>, Zhi-Hong Deng, Jia-Jian Jiang, Sheng-Long Lv, Hang Yu: "Combining strategies for XML retrieval." In INEX 2010: pp. 319-331. <a href="pub/10/inex.pdf">[PDF]</a>
+<br /><b><font color="red">(INEX 2010 Best Student Paper Award)</font></b></li><br />
+
+<li>Yong-Qing Xiang, Zhi-Hong Deng, Hang Yu, Sijing Wang, <b>Ning Gao</b>: "A new indexing
+strategy for XML keyword search". In FSKD 2010: pp. 2412-2416. <a href="pub/10/index.pdf">[PDF]</a></li><br />
+
+<li>Hang Yu, Zhi-Hong Deng, Yong-Qing Xiang, <b>Ning Gao</b>, Ming Zhang, Shiwei Tang:
+"Adaptive Top-k Algorithm in SLCA-Based XML Keyword Search". In APWeb 2010: pp. 364-
+366. <a href="pub/10/adaptive.pdf">[PDF]</a></li><br />
+
+
+
+
+<li><b>Ning Gao</b>, Zhi-Hong Deng, Yong-Qing Xiang, Hang Yu, "ListBM: a learning-to-rank method for XML keyword search." In INEX 2009, pp. 81-87. <a href="pub/09/listbm.pdf">[PDF]</a></li>
+
+</ul>
+    
+    
+     </div>  
+    </div>   
+    
+     </div>
+ </div>
+ </body>
+</html>
