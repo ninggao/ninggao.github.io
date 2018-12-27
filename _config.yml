@@ -6,7 +6,7 @@ tracking_id: #
 
 footer: yes
 footer_url: "https://github.com/ninggao"
-footer_text: "Edited 12/26/2018"
+footer_text: "Last modified 12/26/2018"
 
 sass:
     style: compressed

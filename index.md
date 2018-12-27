@@ -22,17 +22,21 @@ Email: nigao@microsoft.com
 ## Publications
 
 24. <b>Ning Gao</b>, Mark Dredze, Douglas Oard, "Enhancing Scientific Collaboration Through Knowledge Base Population and Linking for Meetings", Hawaii International Conference on System Sciences (HICSS 2018). <a href="pub/18/HICSS.pdf">[pdf]</a>
+<br/>
 Associated Material: <a href="pub/18/meetingKB.xlsx">Meeting KB</a> & <a href="pub/18/meetingAnnotation">Meeting Linking Annotation</a>
 
 
 23. <b>Ning Gao</b>, Gregory Sell, Douglas Oard, Mark Dredze, "Leveraging Side Information for Speaker Identification with the Enron Conversational Telephone Speech Collection", IEEE Automatic Speech Recognition and Understanding Workshop (ASRU 2017). <a href="pub/17/ASRU.pdf">[pdf]</a>
+<br/>
 Associated Material: <a href="pub/17/ASRUGT.txt">Ground truth speakers</a> & <a href="pub/17/ASRUChannels">Manual Channels</a>
 
 
 22. <b>Ning Gao</b>, Douglas W. Oard, and Mark Dredze, "Support for Interactive Identification of Mentioned Entities in Conversational Speech", in Proceedings of the 40th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2017).<a href="pub/17/SIGIR.pdf">[pdf]</a>
+<br/>
 Associated Material: <a href="pub/17/SIGIRAnnotation">Linking Annotations</a> & <a href="pub/17/perKB.xml">Person KB</a> & <a href="pub/17/orgKB.flat.xml">Organization KB</a>
 
 21. <b>Ning Gao</b>, and Silviu Cucerzan, "Entity Linking to One Thousand Knowledge Bases", in Proceedings of the 39th European Conference on Information Retrieval (ECIR 2017). <a href="pub/17/ecir.pdf">[pdf]</a>
+<br/>
 Associated Material: <a href="pub/17/final annotation.txt">Wikia Trigger Annotations for News Articles</a>
 
 20. <b>Ning Gao</b>, Mark Dredze and Douglas W. Oard, "Knowledge Base Population for Organization Mentions in Email", in 5th Workshop on Automated Knowledge Base Construction, 2016. <a href="pub/16/akbc2016.pdf">[pdf]</a><br/> Associated Material: <a href="pub/16/orgKB.flat.xml">Organization Knowledge Base</a> & <a href="pub/16/ORGannotations.xlsx">Entity Linking Annotations</a>  
@@ -46,13 +50,13 @@ Associated Material: <a href="pub/17/final annotation.txt">Wikia Trigger Annotat
 retrieval (SIGIR 2015): pp. 799-802. <a href="pub/15/sigir2015.pdf">[PDF]</a><b><font color="red">(SIGIR Travel Grant)</font>
 
 
-16. <b>Ning Gao</b>, Douglas W. Oard, Mark Dredze (2014). "A Test Collection for Email Entity Linking". NIPS Workshop on Automated Knowledge Base Construction (AKBC 2014), 5 pages. <a href="pub/14/testcollection.pdf">[PDF]</a>
+16. <b>Ning Gao</b>, Douglas W. Oard, Mark Dredze (2014). "A Test Collection for Email Entity Linking". NIPS Workshop on Automated Knowledge Base Construction (AKBC 2014), 5 pages. <a href="pub/14/testcollection.pdf">[PDF]</a><br/>
 Associated Material:  <a href="pub/14/qrels">Test Collection</a>
 
 15. <b>Ning Gao</b>, William Webber, Douglas W. Oard (2014). "Reducing Reliance on Relevance Judgments for System Comparison by Using Expectation-Maximization". 
-Proc. the 36th European Conference on Information Retrieval (ECIR 2014): pp. 1-12. <a href="pub/14/ecir-11.pdf">[PDF]</a>
-Associated Material:<a href="pub/14/ConvergenceProof.ECIR2014" >Convergence Proof</a></ol>
-<b><font color="red">(Jacob K. Goldhaber Travel Grant)</font></b>
+Proc. the 36th European Conference on Information Retrieval (ECIR 2014): pp. 1-12. <a href="pub/14/ecir-11.pdf">[PDF]</a><br/>
+Associated Material:<a href="pub/14/ConvergenceProof.ECIR2014" >Convergence Proof</a><br/>
+<b><font color="red">(Jacob K. Goldhaber Travel Grant)</font></b><br/>
 <b><font color="red">(International Conference Student Support Award)</font>
 
 
