@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.6.15)  26 DEC 2018 16:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.6.15)  26 DEC 2018 16:48
 entering extended mode
 **"./resume of Ning Gao.tex"
 ("resume of Ning Gao.tex"
@@ -20,8 +20,9 @@ File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-) (colortbl.sty
-Package: colortbl 2001/02/13 v0.1j Color table columns (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\colortbl\colortbl.sty"
+Package: colortbl 2018/12/12 v1.0d Color table columns (DPC)
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
 Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
@@ -1005,13 +1006,13 @@ Package rerunfilecheck Info: File `"resume of Ning Gao".out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 330.
  ) 
 Here is how much of TeX's memory you used:
- 8322 strings out of 493305
- 119542 string characters out of 3138874
- 191470 words of memory out of 3000000
- 11680 multiletter control sequences out of 15000+200000
+ 8328 strings out of 493305
+ 119716 string characters out of 3138874
+ 191530 words of memory out of 3000000
+ 11685 multiletter control sequences out of 15000+200000
  63019 words of font info for 91 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,9n,35p,294b,403s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 34i,9n,35p,300b,403s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 !pdfTeX error: pdflatex (file md-chr7y): Font md-chr7y at 694 not found
  ==> Fatal error occurred, no output PDF file produced!
