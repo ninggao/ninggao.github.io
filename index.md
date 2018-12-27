@@ -73,7 +73,7 @@ Associated Material:<a href="pub/14/ConvergenceProof.ECIR2014" >Convergence Proo
 14. <b>Ning Gao</b>, Zhi-Hong Deng, Hang Yu, Jia-Jian Jiang: "ListOPT: Learning to Optimize for XML Ranking". In PAKDD 2011: pp. 482-492. <a href="pub/11/listopt.pdf">[PDF]</a>
 
 
-15. <b>Ning Gao</b>, Zhi-Hong Deng, Jia-Jian Jiang, Sheng-Long Lv, Hang Yu: "Combining strategies for XML retrieval." In INEX 2010: pp. 319-331. <a href="pub/10/inex.pdf">[PDF]</a> 
+15. <b>Ning Gao</b>, Zhi-Hong Deng, Jia-Jian Jiang, Sheng-Long Lv, Hang Yu: "Combining strategies for XML retrieval." In INEX 2010: pp. 319-331. <a href="pub/10/inex.pdf">[PDF]</a> <br/>
 <b><font color="red">(INEX 2010 Best Student Paper Award)</font></b>
 
 16. Yong-Qing Xiang, Zhi-Hong Deng, Hang Yu, Sijing Wang, <b>Ning Gao</b>: "A new indexing strategy for XML keyword search". In FSKD 2010: pp. 2412-2416. <a href="pub/10/index.pdf">[PDF]</a>
