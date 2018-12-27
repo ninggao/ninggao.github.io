@@ -11,7 +11,6 @@ I am a Data Scientist at Microsoft Knowledge Graph team. Before joining Microsof
 Email: nigao@microsoft.com 
 
 <br/>
-<br/>
 ## Honors
 
 1. 2016 ~ 2017, <b>iFellows Doctoral Fellowship</b>, supported by The Andrew W. Mellon Foundation.
@@ -20,7 +19,6 @@ Email: nigao@microsoft.com
 4. 2010, <b>Best Student Paper Award</b>, Workshop of INitiative for the Evaluation of XML Retrieval (INEX).
 5. 2009 ~ 2012, <b>College Scholarship</b>, School of Electronic Engineering and Computer Science, Peking University.
 
-<br/>
 <br/>
 ## Publications
 
