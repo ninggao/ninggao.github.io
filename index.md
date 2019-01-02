@@ -14,13 +14,9 @@ Email: nigao@microsoft.com
 ## Honors
 
 1. 2016 ~ 2017, <b>iFellows Doctoral Fellowship</b>, supported by The Andrew W. Mellon Foundation.
-
 2. 2012, <b>Best Poster Award Runner-up</b> on iSchool Doctoral Research Day, Information Studies, University of Maryland.
-
 3. 2011, <b>Founder Scholarship</b>, Peking University Founder Group Co.,Ltd ( Granted for best student in AI).
-
 4. 2010, <b>Best Student Paper Award</b>, Workshop of INitiative for the Evaluation of XML Retrieval (INEX).
-
 5. 2009 ~ 2012, <b>College Scholarship</b>, School of Electronic Engineering and Computer Science, Peking University.
 
 <br/>
