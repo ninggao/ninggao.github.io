@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  30 MAY 2019 20:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  30 MAY 2019 20:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1028,7 +1028,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 330.
 Here is how much of TeX's memory you used:
  8396 strings out of 493089
  121570 string characters out of 6134842
- 195617 words of memory out of 5000000
+ 194617 words of memory out of 5000000
  11682 multiletter control sequences out of 15000+600000
  63019 words of font info for 91 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1039,7 +1039,7 @@ cal/texlive/2015/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb></usr/local
 xlive/2015/texmf-dist/fonts/type1/bitstrea/charter/bchri8a.pfb></usr/local/texl
 ive/2015/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chr7y.pfb></usr/loca
 l/texlive/2015/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chr8t.pfb>
-Output written on "resume of Ning Gao.pdf" (4 pages, 65238 bytes).
+Output written on "resume of Ning Gao.pdf" (4 pages, 65235 bytes).
 PDF statistics:
  82 PDF objects out of 1000 (max. 8388607)
  70 compressed objects within 1 object stream
